@@ -36,23 +36,23 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu Alaikum
+    runntxt(GL+"              Assalamu'@laikum. ^_^")
     runntxt(WW+"   ..................  HYPER SPAMMING TEAM")
     runntxt(WW+"     ....       MD SHOHAG")
-    runntxt(GL+"                   Target ID")
-    runntxt(GG+"     ..........     The Hyperion")
-    runntxt(Y+"    ............       You Can Target Any FB Account")
-    runntxt(GG+"           Stay With Us ")
+    runntxt(GL+"                   THE HYPERION")
+    runntxt(GG+"     ..........     TARGET ANY ID")
+    runntxt(Y+"    ............       DILARANG CO*I")
+    runntxt(GG+"           INGAT COK ")
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK Target.   ••••••|"
+    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK TARGET.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MD SHOHAG             |"
-    print GL+"  |       Hyper Spamming Team       |"
-    print WW+"  |        TEAM Link : www.facebook.com/870563273055106            |"
-    print Y+"  |             GitHub:https://github.com/HyperSpammingTeam/         |"
+    print WW+"  |            MADE BY: MD SHOHAG             |"
+    print GL+"  |       HYPER SPAMMING TEAM       |"
+    print WW+"  |        TEAM GROUP : www.facebook.com/870563273055106            |"
+    print Y+"  |             TEAM PAGE FB : Hyper.Spamming.Team.0fficial              |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |        Enjoy Your Termux Life         |"
+    print GL+"  |        THE HYPERIONS [ T.H. ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
     print GL+"  |•••••••••   HACK FACEBOOK TARGET ^_^   •••••••••|"
