@@ -50,7 +50,7 @@ def banner():
     print WW+"  |   MADE BY: MD SHOHAG-Founder At Hyper Spamming Team |"
     print GL+"  |   HYPER SPAMMING TEAM---------------We Crack System |"
     print WW+"  |   TEAM GROUP :     www.facebook.com/870563273055106 |"
-    print Y+"   |   TEAM PAGE FB :   Hyper.Spamming.Team.0fficial     |"
+    print Y+"  |   TEAM PAGE FB :   Hyper.Spamming.Team.0fficial     |"
     print GL+"  |-----------------------------------------------------|"
     print GL+"  |         We Make System--We Are Hyperion's           |"
     print GL+"  |-----------------------------------------------------|"
