@@ -44,19 +44,19 @@ def banner():
     runntxt(Y+"    ............       DILARANG CO*I")
     runntxt(GG+"           INGAT COK ")
     time.sleep(1.5)
-    print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK TARGET.   ••••••|"
-    print GG+"  √=============================================√"
-    print WW+"  |            MADE BY: MD SHOHAG             |"
-    print GL+"  |       HYPER SPAMMING TEAM       |"
-    print WW+"  |        TEAM GROUP : www.facebook.com/870563273055106            |"
-    print Y+"  |             TEAM PAGE FB : Hyper.Spamming.Team.0fficial              |"
-    print GL+"  |---------------------------------------------|"
-    print GL+"  |        THE HYPERIONS [ T.H. ]         |"
-    print GL+"  |---------------------------------------------|"
-    print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK TARGET ^_^   •••••••••|"
-    print GG+"  √=============================================√"
+    print GG+"  √=====================================================√"
+    print GL+"  |•••••••••••NEW TOOLS HACK FACEBOOK TARGET••••••••••••|"
+    print GG+"  √=====================================================√"
+    print WW+"  |   MADE BY: MD SHOHAG-Founder At Hyper Spamming Team |"
+    print GL+"  |   HYPER SPAMMING TEAM---------------We Crack System |"
+    print WW+"  |   TEAM GROUP :     www.facebook.com/870563273055106 |"
+    print Y+"   |   TEAM PAGE FB :   Hyper.Spamming.Team.0fficial     |"
+    print GL+"  |-----------------------------------------------------|"
+    print GL+"  |         We Make System--We Are Hyperion's           |"
+    print GL+"  |-----------------------------------------------------|"
+    print GG+"  √=====================================================√"
+    print GL+"  |••••••••••••• HACK FACEBOOK TARGET ^_^ ••••••••••••••|"
+    print GG+"  √=====================================================√"
 
 banner()
 
@@ -154,25 +154,25 @@ def runn_noobs():
               .:+o+:-..````..-:+o+:.
            `:o+-`                `:+o:`
          `/o:`                      `:o/`
-        -s/`  .-..`            `..--` `/s-
-       /o.   `:.`.-:----------:-.``:-   .o/
-      /o`    .:`    `              --    `o/
-     -s.     .:`                   --     .s-
-     o/     .:`                     --     +o
-    .s-     :.                      `:`    -s`
-    .s.     :.                      `:`    .s.
-    .s-     --                      .:     -s.
-     o/     `-.                    `-.     /o
-     -s.     `--`                `.-`     .s-
-      /o` ----``..--..`    `...--.`      `o/
-       /o. `----`  `-.      `-.         .o/
-        -o:  -.......        ..       `:o-
-         `:o:``....--        ..     `:o:`
-           `:+/-`  `-        ..  `-/+:`
+        -s/`                          `/s-
+       /o.    _  ___   _____ ___ ___    .o/
+      /o`    | || \ \ / / _ \ __| _ \    `o/
+     -s.     | __ |\ V /|  _/ _||   /     .s-
+     o/      |_||_| |_| |_| |___|_|_\      +o
+    .s-                                    -s`
+    .s.           WE MAKE SYSTEM            .s.
+    .s-           WE CRACK SYSTEM           -s.
+     o/          WE ARE HYPERION'S          /o
+     -s.                                  .s-
+      /o`                                `o/
+       /o.                              .o/
+        -o:                           `:o-
+         `:o:                       `:o:`
+           `:+/-                  `-/+:`
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
-                \033[90;1mHyper Spamming Team\033[91;1m
-             Powered by:\033[97m MD SHOHAG
+                \033[90;1mMD SHOHAG\033[91;1m
+             Powered by:\033[97m HYPER SPAMMING TEAM
       """
 
 
