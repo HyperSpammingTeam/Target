@@ -160,12 +160,12 @@ def runn_noobs():
      -s.     | __ |\ V /|  _/ _||   /     .s-
      o/      |_||_| |_| |_| |___|_|_\      +o
     .s-                                    -s`
-    .s.           WE MAKE SYSTEM            .s.
-    .s-           WE CRACK SYSTEM           -s.
-     o/          WE ARE HYPERION'S          /o
+    .s.           WE MAKE SYSTEM           .s.
+    .s-           WE CRACK SYSTEM          -s.
+     o/          WE ARE HYPERION'S         /o
      -s.                                  .s-
       /o`                                `o/
-       /o.                              .o/
+       /o.          STAY WITH US        .o/
         -o:                           `:o-
          `:o:                       `:o:`
            `:+/-                  `-/+:`
